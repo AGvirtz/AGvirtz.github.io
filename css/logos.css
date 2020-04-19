@@ -1,0 +1,15 @@
+.flex-container {
+  display: flex;
+  flex-flow: row no-wrap;
+  justify-content: space-between;
+}
+
+.flex-item {
+  padding: 10px;
+  margin: auto;
+  flex: 1 1 0px;
+}
+
+.img-responsive {
+    max-width: 100%;
+}
